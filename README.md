@@ -232,10 +232,12 @@ Research project to understand the complex processes between degradations in the
 
 ### [Mask-RCNN Shiny](https://github.com/huuuuusy/Mask-RCNN-Shiny)
 A computer vision class project by HU Shiyu to apply the color pop effect on people with beautiful results.
-![](assets/project_shiny1.jpg)
+![](assets/project_shiny1.jpg
+
 
 ### [Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn): Convert satellite imagery to maps for use by humanitarian organisations.
 ![Mapping Challenge](assets/mapping_challenge.png)
 
 ### [GRASS GIS Addon](https://github.com/ctu-geoforall-lab/i.ann.maskrcnn) to generate vector masks from geospatial imagery. Based on a [Master's thesis](https://github.com/ctu-geoforall-lab-projects/dp-pesek-2018) by Ondřej Pešek.
 ![GRASS GIS Image](assets/project_grass_gis.png)
+https://blog.csdn.net/WZZ18191171661/article/details/79453780
